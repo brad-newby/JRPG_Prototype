@@ -1,0 +1,5 @@
+Controls - Designed for an Xbox Controller
+-------------------------------------------
+DPad - Control Menus
+A - Select
+LB - Quit Game when not in fight
